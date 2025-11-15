@@ -7,7 +7,11 @@ Transit App is an easy way for commuters to see when their bus or train arrives.
 
 ## Getting Started
 
-Begin by applying for a OneBusAway API Key. You can add this to your .env file. Next, find your nearest bus stops by putting in the latitude and longitude for your bus stop in the following API: `https://api.pugetsound.onebusaway.org/api/where/stops-for-location.json?key={YOUR_KEY}&lat={LAT}&lon={LONG}`
+Begin by applying for a OneBusAway API Key. Add this to your .env file. 
+
+Next, find your nearest bus stops by putting in the latitude and longitude for your bus stop in the following API: `https://api.pugetsound.onebusaway.org/api/where/stops-for-location.json?key={YOUR_KEY}&lat={LAT}&lon={LONG}` Put your stop id in the .env file. 
+
+Next run `npm install` to install all node modules.
 
 Finally, run the development server:
 
