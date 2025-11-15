@@ -1,5 +1,5 @@
 ## Transit App
-Is an easy way for commuters to see the time until their bus or train arrives. Implementation is for the OneBusAway network and uses their API. Below is a demonstration of the working web app.
+Is an easy way for commuters to see the time until their bus or train arrives. Implementation uses the OneBusAway network API. Implementation is in Next.js (React). Below is a demonstration of the working web app.
 <p align="center">
   <img src="demo.jpeg" alt="Bus Stop" width="300" />
 </p>
