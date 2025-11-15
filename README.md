@@ -1,5 +1,6 @@
 ## Transit App
-Transit App allows you to view realtime bus, train, and metro arrival times for your local transit stop.
+Is an easy way for commuters to see the time until their bus or train arrives. Implementation is for the OneBusAway network and uses their API. Below is a demonstration of the working web app.
+![Demonstration](demo.jpg)
 
 ## Getting Started
 
