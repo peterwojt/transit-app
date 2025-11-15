@@ -1,6 +1,8 @@
 ## Transit App
 Is an easy way for commuters to see the time until their bus or train arrives. Implementation is for the OneBusAway network and uses their API. Below is a demonstration of the working web app.
-![Demonstration](demo.jpeg)
+<p align="center">
+  <img src="demo.jpeg" alt="Bus Stop" width="300" />
+</p>
 
 ## Getting Started
 
